@@ -1782,7 +1782,7 @@ select:focus {
     color: #fff;
     width: 60px;
     height: 60px;
-    background: #ddd;
+    background:rgba(08, 30, 53, 00);
     border-radius: 50%;
 }
 .anim-menu-btn span {
