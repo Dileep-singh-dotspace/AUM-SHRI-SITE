@@ -1716,7 +1716,7 @@ select:focus {
 }
 .main-header.fixed-header {
     padding-bottom: 20px;
-    background: rgba(22, 36, 217, 0.90);
+    background: rgba(08, 30, 53, 0.90);
     box-shadow: 0 0 10px rgba(0,0,0,.1);
 }
 .main-header.fixed-header .outer-container .top-bar {
