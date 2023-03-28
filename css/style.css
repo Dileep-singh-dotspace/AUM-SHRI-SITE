@@ -2336,6 +2336,7 @@ select:focus {
 .main-slider .slide-content{
     position: relative;
     display: block;
+    
 }
 .main-slider .slide-content .big-title{
 	position: relative;
@@ -2422,11 +2423,12 @@ select:focus {
     display: block;
     overflow: hidden;
     text-align: center;
+    
 }
 .main-slider .slide-content .agency ul li{
     position: relative;
     display: inline-block;
-    color: #ffffff;
+    color: #081E35;
     font-size: 100px;
     line-height: 74px;
     font-weight: 900;
@@ -2439,6 +2441,7 @@ select:focus {
     display: inline-block;
     width: 100px;
     height: 2px;
+    
 }
 .main-slider .slide-content .agency ul li span:before{
     position: absolute;
